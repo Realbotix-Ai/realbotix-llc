@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# claude code
+.claude/
+
+# design references (not website assets, not for commit)
+/references/
+
+# ad-hoc review notes (not for commit)
+/color-audit.md
